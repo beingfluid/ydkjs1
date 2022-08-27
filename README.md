@@ -26,8 +26,7 @@ check out the [Preface](preface.md).**
 
 - Read online (free!): ["Up & Going"](./up%20%26%20going/README.md)
 - Read online (free!): ["Scope & Closures"](./scope%20%26%20closures/README.md)
-- Read online (free!):
-  ["this & Object Prototypes"](./this%20%26%20object%20prototypes/README.md)
+- Read online (free!): ["this & Object Prototypes"](./book3/book3readme.md)
 - Read online (free!): ["Types & Grammar"](./types%20%26%20grammar/README.md)
 - Read online (free!):
   ["Async & Performance"](./async%20%26%20performance/README.md)
