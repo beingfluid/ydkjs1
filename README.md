@@ -12,12 +12,12 @@ language. The first edition of the series is now complete. Also, these
 first-edition books are now **out of print** and can no longer be purchased.
 They can only be read for free online here in this markdown format.
 
-<img src="up %26 going/cover.jpg" width="75">&nbsp;
-<img src="scope %26 closures/cover.jpg" width="75">&nbsp;
-<img src="this %26 object prototypes/cover.jpg" width="75">&nbsp;
-<img src="types %26 grammar/cover.jpg" width="75">&nbsp;
-<img src="async %26 performance/cover.jpg" width="75">&nbsp;
-<img src="es6 %26 beyond/cover.jpg" width="75">
+<img src="./book1/cover.jpg" width="75">&nbsp;
+<img src="./book2/cover.jpg" width="75">&nbsp;
+<img src="./book3/cover.jpg" width="75">&nbsp;
+<img src="./book4/cover.jpg" width="75">&nbsp;
+<img src="./book5/cover.jpg" width="75">&nbsp;
+<img src="./book6/cover.jpg" width="75">
 
 **To read more about the motivations and perspective behind this book series,
 check out the [Preface](preface.md).**
