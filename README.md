@@ -24,13 +24,12 @@ check out the [Preface](preface.md).**
 
 ## Titles
 
-- Read online (free!): ["Up & Going"](./up%20%26%20going/README.md)
-- Read online (free!): ["Scope & Closures"](./scope%20%26%20closures/README.md)
+- Read online (free!): ["Up & Going"](./book1/book1readme.md)
+- Read online (free!): ["Scope & Closures"](./book2/book2readme.md)
 - Read online (free!): ["this & Object Prototypes"](./book3/book3readme.md)
-- Read online (free!): ["Types & Grammar"](./types%20%26%20grammar/README.md)
-- Read online (free!):
-  ["Async & Performance"](./async%20%26%20performance/README.md)
-- Read online (free!): ["ES6 & Beyond"](./es6%20%26%20beyond/README.md)
+- Read online (free!): ["Types & Grammar"](./book4/book4readme.md)
+- Read online (free!): ["Async & Performance"](./book5/book5readme.md)
+- Read online (free!): ["ES6 & Beyond"](./book6/book6readme.md)
 
 ## Publishing
 

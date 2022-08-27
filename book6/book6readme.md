@@ -1,4 +1,4 @@
-# You Don't Know JS: Async & Performance - 1st Edition
+# You Don't Know JS: ES6 & Beyond - 1st Edition
 
 | UPDATE: You are viewing the 1st edition of the book series, as they were published by O'Reilly from 2014-2015. As of now, [2nd edition](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed) work is underway. Any issues or PRs should be directed against the latest edition. |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -11,20 +11,21 @@
 
 ---
 
-**[Purchase digital/print copy from O'Reilly](http://shop.oreilly.com/product/0636920033752.do)**
+**[Purchase digital/print copy from O'Reilly](http://shop.oreilly.com/product/0636920033769.do)**
 
 ---
 
 [Table of Contents](toc.md)
 
-- [Foreword](./foreword.md) (by [Jake Archibald](http://jakearchibald.com))
+- [Foreword](./foreword.md) (by
+  [Rick Waldron](http://bocoup.com/weblog/author/rick-waldron/))
 - [Preface](../preface.md)
-- [Chapter 1: Asynchrony: Now & Later](./ch1.md)
-- [Chapter 2: Callbacks](./ch2.md)
-- [Chapter 3: Promises](./ch3.md)
-- [Chapter 4: Generators](./ch4.md)
-- [Chapter 5: Program Performance](./ch5.md)
-- [Chapter 6: Benchmarking & Tuning](./ch6.md)
-- [Appendix A: Library: asynquence](./apA.md)
-- [Appendix B: Advanced Async Patterns](./apB.md)
-- [Appendix C: Thank You's!](./apC.md)
+- [Chapter 1: ES? Now & Future](./ch1.md)
+- [Chapter 2: Syntax](./ch2.md)
+- [Chapter 3: Organization](./ch3.md)
+- [Chapter 4: Async Flow Control](./ch4.md)
+- [Chapter 5: Collections](./ch5.md)
+- [Chapter 6: API Additions](./ch6.md)
+- [Chapter 7: Meta Programming](./ch7.md)
+- [Chapter 8: Beyond ES6](./ch8.md)
+- [Appendix A: Thank You's!](./apA.md)
